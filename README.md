@@ -3,7 +3,7 @@ Greetings, my name is Bobby Stephens III. I am a senior in The STEM Institute at
 
 - [Collaborative](Collaborative)
 - [Creative Thinker](Creative-thinker)
-- [Critical Thinking](Critical-thinker)
+- [Critical Thinking](Critical\Thinker)
 - [Employable](Employable)
 - [Empowered](Empowered)
 - [Future Thinker](Future-thinker)
