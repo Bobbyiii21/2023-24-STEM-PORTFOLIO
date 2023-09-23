@@ -1,0 +1,142 @@
+\documentclass[12pt]{report}
+\usepackage{times}
+\usepackage{graphicx}
+%set font of document to helvetica
+\renewcommand{\familydefault}{\rmdefault}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage[style=apa]{biblatex}
+\usepackage[margin=1in]{geometry}
+\usepackage[]{setspace}
+% BEGIN: 8f7d3c5j4d9e
+% \usepackage[]{hyperref}
+\usepackage{xcolor}
+
+% Define a new color for the link highlighting
+\definecolor{linkhighlight}{RGB}{255, 255, 0}
+\usepackage{fancyhdr} 
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyheadoffset{0cm}
+\renewcommand{\headrulewidth}{0pt} 
+\renewcommand{\footrulewidth}{0pt}
+\fancyhead[R]{\thepage}
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyhead[R]{\thepage}%
+}
+% Set the link highlighting color to yellow
+% \hypersetup{
+%     colorlinks=true,
+%     linkcolor=blue,
+%     filecolor=magenta,      
+%     urlcolor=black,
+%     linkbordercolor=linkhighlight,
+%     citebordercolor=linkhighlight,
+%     urlbordercolor=linkhighlight,
+%     pdfborderstyle={/S/U/W 1}
+% }
+\newrefcontext{sorting=name}
+% END: 8f7d3c5j4d9e
+\DeclareLanguageMapping{english}{english-apa}
+\addbibresource{annot.bib} 
+
+\title{\fontsize{18}{20}\selectfont\textbf{Assistive Technology and Affordability}}
+\date{September 2023 \\\phantom{.}\\ Word Count: 1,110}
+
+\usepackage[skip=0pt plus1pt, indent=72pt]{parskip}
+
+
+\author{AP Seminar}
+
+
+\begin{document}
+\maketitle\newpage
+
+\doublespacing\begin{raggedright}\parindent=36ptAccording to The American Psychological Association, 
+    Independence is the state of having freedom from the influence 
+    or control of other individuals or groups \parencite*[]{APA} and as I.S. Kon 
+    States, there is no other personal quality as valuable as a 
+    person’s independence \parencite{doi:10.2753/RES1060-9393310957}. A person’s independence relies on their ability to make and carry out decisions 
+    independently, without assistance from another individual \parencite{doi:10.2753/RES1060-9393310957}. For many, having 
+    independence is simple in the early and early middle stages of life.
+    But as people age into the late stages of life, Their independence may 
+    need to be assisted by external devices, or more formally, assistive 
+    technology. While many devices help individuals 
+    maintain their independence, There are barriers to their access, 
+    with the largest being cost. Technologies that improve the 
+    independence of individuals who are differently abled can be made 
+    affordable through modern technologies and efficient manufacturing.
+
+    \parindent=36pt
+    The need for affordable assistive technology is greatly amplified in resource-limited
+    locations like Bangladesh. In a scholarly and peer reviewed work, Borg and {\"O}stergren's study brings light to this issue by revealing that
+    despite the awareness of the availability of assistive technology, affordability remains the main obstacle
+    to their widespread adoption in the area \parencite{doi:10.3109/17483107.2014.974221}. In other nations,
+    social protection systems are implemented to provide assistive technology to those who need it. These protections
+    may be in the form of insurance, universal health coverage, or direct provision. However, these programs are often
+    insufficient and leave many users with a financial burden, putting them at risk of poverty \parencite{doi:10.1080/10400435.2021.1994052}.
+    It is essential to develop assistive technology that can be better afforded by social protection programs or by the users themselves to
+    prevent them from falling into poverty and to allow them to maintain autonomy.
+
+    \parindent=36pt
+    One of the first steps in making assistive technologies more affordable lies 
+    in the design of the product. In recent times, minimalist design has been experiencing a resurgence, calling back to its mid-19th century origins.  It can be seen everywhere,
+    from Apple's website to the design of the new Tesla Cybertruck \parencite*{arts909874}. This idea can be applied to
+    assistive technology as well. A simpler design results in fewer materials and less time in 
+    the manufacture of the device. The combination of these two factors can lead
+    to a lower cost of production and, therefore, a lower cost of the device. The use of simpler 
+    manufacturing in assistive technology can be best seen in an engineering design report by the 
+    TTK Center for Rehabilitation Research and Device Development (R2D2), and published in the journal \textit{Disability and Rehabilitation: Assistive Technology}. In their report, the team 
+    detailed that in the team's third iteration of a manual standing wheelchair, the minimalistic design of the 
+    wheelchair allowed for lower manufacturing and tooling costs, as well as making the user more 
+    visible to others while using the device \parencite{doi:10.1080/17483107.2021.1892839}. In 
+    the production-ready iteration of the wheelchair, the team was able to reduce its cost to around 
+    210 United States Dollars. When released to the public, this reduction in
+    cost can make the device more accessible to a wider range of individuals who require assistive technology.
+
+    \parindent=36pt
+    The widespread adaptation of low-cost microcontrollers and single-board computers has 
+    heavily impacted the field of technology. These devices are increasingly becoming more affordable and can be used for a
+    wide range of applications. Some applications include the collection of data for monitoring 
+    and automated crop management. The versatility, in combination with the low cost of these devices, 
+    opens up a wide range of possibilities for their use in assistive technology. In a case study
+    presented by the Lassonde School of Engineering and published by Springer International, a team of students worked to develop an 
+    assistive device that would allow those who are challenged by verbal communication to communicate their needs better. Their goal for the device was to make it an affordable alternative 
+    to commercialized devices by prioritizing the use of durable, customizable, low-cost, and open-source 
+    components. In the final iteration of the assistive device, the team was able to achieve all of their 
+    goals using an openly designed accessibility-enhanced human interface device, a Raspberry Pi, and a speaker. 
+    The total price of the device was around 80 Canadian dollars, with all the assembly instructions 
+    and code being readily available online \parencite{10.1007/978-3-319-08599-9_44}. One benefit of using open-source components is that they can be manufactured by anyone and modified to fit the needs of the user.
+
+    \parindent=36pt
+    New Developments in assistive technology can take advantage of microcontrollers to create
+    more advanced products while maintaining a low cost. An example of a device that takes advantage of this is the
+    development of a robotic smart cane for the visually impaired. This product incorporates an Arduino microcontroller, an array of components, and a DC motor to navigate the user around obstacles and enhance its capabilities
+    through a smartphone application. The smartphone application allows someone, such as a family member or 
+    caregiver, to set a destination for the cane to navigate the user to. The combined cost of the components used in the 
+    device is around 60–80 United States Dollars, making it an advanced yet affordable option for the visually impaired \parencite{10.1007/978-3-030-49282-3_36}.
+
+    \parindent=36pt
+    Another example of a device that takes advantage of single-board computing solutions is found in the design of smart 
+    glasses for those who are visually impaired. A conference paper presented at the 2022 International Conference on Communication, Computing, and Internet of Things (IC3IoT), 
+    describes the development process behind the device. The device is designed to assist people who are visually impaired in recognizing people around them through the use of a camera,
+    a microphone, and a speaker connected to a Raspberry Pi and ESP32 microcontroller. The device features many algorithms that allow facial and recognition detection, hot word 
+    detection, and text-to-speech. The device is also capable of connecting to the internet, allowing the user to access a wide range of information from Google and other services. The device's total cost
+    can be approximated to 150 United States Dollars, making it another highly advanced yet cost-effective option for the visually impaired \parencite{9768012}.
+
+    \parindent=36pt
+    To conclude, the development of affordable assistive technology is essential to ensuring that individuals, especially those who are aging or in resource-limited locations, can maintain their independence. 
+    By making use of minimalist design principles and the endless possibilities of low-cost microcontrollers in conjunction with open-source components, the realm of 
+    the field of assistive technology can make significant strides toward providing a more inclusive and equitable future. This will allow for more individuals to maintain their independence and live a more fulfilling life.
+\end{raggedright}
+
+
+
+\pagebreak
+\defbibheading{myheading}[References]{\centering\large\textbf{#1}}
+\printbibliography[heading=myheading]
+\end{document}

@@ -1,0 +1,157 @@
+%% This is annot.tex.
+%% 
+%% You'll need to change the title and author fields to reflect your
+%% information.
+%%
+%% Author: Titus Barik (titus@barik.net)
+%% Homepage: http://www.barik.net/sw/ieee/
+%% Reference: http://www.ctan.org/tex-archive/info/simplified-latex/
+
+% \documentclass[11pt]{article}
+
+\title{The Independence of Elderly - Economic\\\medskip An Annotated Bibliography}
+\author{Bobby R. Stephens III\\Newton College and Career Academy}
+\date{27 Aug 2023}
+
+% \begin{document}
+% \maketitle
+% \nocite{*}
+% \bibliographystyle{IEEEannot}
+% \bibliography{annot}
+% \end{document}
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage[style=apa]{biblatex}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+
+\DeclareLanguageMapping{english}{english-apa}
+\addbibresource{annot.bib} 
+
+
+\newcounter{bibnum}
+\DeclareCiteCommand{\fullcitebib}
+  {\renewenvironment*{thebibliography}
+  {\list
+     {\stepcounter{bibnum}\thebibnum.\ }
+     {\setlength{\leftmargin}{1.65\bibhang}
+      %
+      \setlength{\itemindent}{-\bibhang}%
+      \setlength{\itemsep}{\bibitemsep}%
+      \setlength{\parsep}{\bibparsep}}}
+  {\endlist}
+  \renewcommand{\finalnamedelim}{\ifnum\value{liststop}>2         
+\finalandcomma\fi\addspace\&\space}%
+  \begin{thebibliography}\item}
+  {\usedriver
+    {\DeclareNameAlias{sortname}{default}}
+    {\thefield{entrytype}}\finentry}
+  {\item}
+  {\end{thebibliography}}
+
+\begin{document}
+
+
+\maketitle
+
+\pagebreak
+
+\doublespacing\fullcitebib{doi:10.3109/17483107.2014.974221}
+
+This peer-reviewed scholarly article aims to identify the barriers and solutions to providing assistive technologies in resource-limited settings
+          such as Bangladesh. In their study, the authors found that awareness of assistive technologies is high among people with disabilities in Bangladesh. They also
+          found that the lack of affordability was the main reason for not possessing assistive technology. This relates to the team's research question through
+          an economic lens because it actively addresses the issue of affordability for consumers in the assistive technology field. The paper details that 
+          ``As lack of affordability was the major barrier to assistive technologies, there is a need to develop mechanisms and systems that make them affordable'' (\cite{doi:10.3109/17483107.2014.974221}).\\
+          While this paper is scholarly and peer-reviewed, it may be important to note that this text is aging and may not be as accurate in today's context.
+
+\pagebreak
+\fullcitebib{doi:10.1080/10400435.2021.1994052}
+
+This academic journal article, published in 2021 under Taylor and Francis, discusses the importance of social protection in providing access to assistive technology. The report
+          claims that to overcome the barriers of a disability, people with disabilities often face significant costs associated with their disability, and often, these costs lead them into poverty.
+          In many countries, social protection programs are widely seen as a gateway to accessing assistive technology through insurance, Universal Health Coverage, and other programs.
+          However, in low- and middle-income countries, it is found that a significantly low percentage of people with disabilities who may need assistive technology receive benefits from social protection programs.
+          This article, in its conclusion, states that ``Even when awareness of the importance of AT is there, there is still an overreliance, as for human assistance, on the fact that household should cover AT-related costs'' (\cite{doi:10.1080/10400435.2021.1994052}).
+          This article shows that even with social protection programs in place, the cost of assistive technology is still a burden on the consumer. This article holds relevance to the team's research question through an economic lens
+          because it shows that technologies that improve the independence of adults over 50 years old can be costly and that social protection programs may not be enough to cover the costs of assistive technology, thus making it essential to develop affordable assistive technology that can be easily funded through
+          social protection programs.
+
+        
+\pagebreak
+
+          \fullcitebib{10.1007/978-3-319-08599-9_44}
+
+          This conference paper presents the idea that through their design of a communication board, DIY and open design approaches allow for the development of an affordable alternative to commercial assistive technology.
+          In the development of the communication board, the team set out five design goals:
+          To be open source.
+          To be low cost.
+          To have functional visibility.
+          To be durable.
+          To be customizable.
+          In the final iteration of the communication board, the team met all five of their design goals using an accessibility-enhanced human interface device (HID), a Rasberry Pi, and a speaker. 
+          This paper is relevant to the team's research question through an economic lens because it presents the idea that assistive technology can be affordable through the use of open source and DIY methods.
+          One detail to note in the paper can be found in the following quote: ``All
+          instructions are freely available (e.g., schematics of the electronic components,
+          the developed software code, instructions on how to assemble the hardware and
+          load the software, as well as, small libraries of original voice samples that can be
+          used free of charge for the speech synthesizer). The fabrication cost of the entire
+          TalkBox is $\approx$80 CAD'' (\cite{10.1007/978-3-319-08599-9_44}). \\ 
+          This paper can be deemed accurate because of its documented references and the procedures and results of the communication board being documented by the authors.
+          
+
+\pagebreak
+\fullcitebib{9768012}
+
+This conference paper describes the design and development of a Rasberry Pi-based assistive technology device. This device is to assist the visually impaired with glasses that provide facial recognition through the use of an ESP 32
+          as well as a voice assistant. Similar to an Amazon Alexa or Google Assistant, the device has a wake word that activates the device. This device incorporates advanced computer vision technology and multiple algorithms. This conference paper states that the glasses are ``cost-effective'' and  ``reliable, easy to use and has many features'' (\cite{9768012}).
+          This paper is relevant to the team's research question through an economic lens because it shows that highly advanced CV algorithms and voice assistants can be implemented into a small and seemingly regular-looking device. 
+          \\This paper can be seen as accurate because it is a conference paper that IEEE, a reputable publisher focused on technology, published.
+
+
+
+
+
+
+
+\pagebreak
+\fullcitebib{8929591}
+
+This conference paper presents the idea that cost-effective assistive technology is required to improve the lives of people with disabilities. This paper
+          details the many low-cost assistive devices developed to assist people with disabilities in educational, vocational, and everyday activities.
+          Now, while this paper addresses the disabled population, assistive technology is also targeted towards the aging population.
+          To create these devices, the authors implemented modern technologies such as 3D printing, Bluetooth, sensors, and microcontrollers. This paper is
+          relevant to the team's research question through an economic lens because it presents the idea that assistive technology can be affordable, modern,
+          and easy to implement. These factors can strengthen the independence of people with disabilities and aging in public and in the workforce.
+          Some details to note in the paper can be found in the following quote: ``Vbill is a unique, accessible billing app for all developed for Android devices. It enables the differently-abled person to do billing independently and print the same using the scan mode or crosshair mode of operation'' (\cite{8929591}).
+          While this app serves as assistive technology, it is developed for the Android operating system, which is supported by modern and affordable devices.
+          \\This paper can be deemed as accurate because of its documented references and most of the devices mentioned in the paper being made by the authors themselves.
+          The paper's source can be viewed as reliable since it was released by the IEEE, a reputable organization focused on technology.
+          
+\pagebreak
+          
+\fullcitebib{doi:10.1080/17483107.2021.1892839}
+
+This original research article, published in 2021 under Taylor and Francis, details an invention designed in response to the need for low-cost assistive technology.
+          To achive such product, the design of the standing wheelchair was refined over 5 years and gradually improved through user feedback. The standing wheelchair provides outdoor mobility, customizability, and looks that are pleasing to the eye. It accommodates users of varying
+          sizes and minimizes user effort using a lever and a gas spring. This article is relevant to the team's research question through an economic lens
+          in that it presents a way to make assistive technology affordable in manufacturing and mass production. The article states that
+          ``The minimalist design allowed manufacturing and tooling investment costs to remain low and made the user more visible than the wheelchair'' (\cite{doi:10.1080/17483107.2021.1892839}).
+          The incorporation of a minimalist design in the wheelchair allowed for lower manufacturing, which in turn helped
+          the standing wheelchair achive a cost of approximately 210 USD.\@
+
+
+
+\fullcitebib{10.1007/978-3-030-49282-3_36}
+
+This conference paper describes the idea of a robotic cane that caters to the needs of the visually impaired. The robotic
+            cane is equipped with a distance sensor, a GPS, and two DC motors. A mobile application controls the robotic cane through bluetooth.
+            While the cane had many flaws, including the system only collecting frontal depth data and the device dragging the patient, It was an affordable product that could be used to support a person's independence.
+            This paper is relevant to the team's research question through an economic lens because it demonstrates that assistive technology can be modern and affordable using technologies such as Bluetooth and microcontrollers.
+            One notable detail in this conference paper is that ``The robot structure is generated by 3D printing, and the electronic system has been designed based on Arduino technology'' (\cite{10.1007/978-3-030-49282-3_36}).
+            \\This source is accurate because it is a conference paper that Springer, a reputable publisher of peer-reviewed academic journals, published. 
+
+\end{document}

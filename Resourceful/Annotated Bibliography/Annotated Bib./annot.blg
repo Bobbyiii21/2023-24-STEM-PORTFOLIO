@@ -1,0 +1,22 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'annot.blg'
+[128] biber-darwin:340> INFO - === Tue Aug 29, 2023, 10:43:17
+[159] Biber.pm:419> INFO - Reading 'annot.bcf'
+[327] Biber.pm:979> INFO - Found 7 citekeys in bib section 0
+[363] Biber.pm:4419> INFO - Processing section 0
+[380] Biber.pm:4610> INFO - Looking for bibtex file 'annot.bib' for section 0
+[382] bibtex.pm:1713> INFO - LaTeX decoding ...
+[404] bibtex.pm:1519> INFO - Found BibTeX data source 'annot.bib'
+[593] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[593] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[593] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[593] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[629] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[629] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[629] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[629] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[652] bbl.pm:660> INFO - Writing 'annot.bbl' with encoding 'UTF-8'
+[677] bbl.pm:763> INFO - Output to annot.bbl
+[677] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/zb/qmzj9dnx3ljf4q2qqhy7vrmh0000gn/T/biber_tmp_rgWK/fd932507b91c5a504153a3053e2864bb_74039.utf8, line 27, warning: 772 characters of junk seen at toplevel
+[677] Biber.pm:131> WARN - BibTeX subsystem: /var/folders/zb/qmzj9dnx3ljf4q2qqhy7vrmh0000gn/T/biber_tmp_rgWK/fd932507b91c5a504153a3053e2864bb_74039.utf8, line 108, warning: 514 characters of junk seen at toplevel
+[677] Biber.pm:133> INFO - WARNINGS: 2

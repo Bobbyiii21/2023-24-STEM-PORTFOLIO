@@ -1,0 +1,975 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{APA}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd90f207222ea07e1d0453f5c6c02dc0}{%
+           family={{APA Dictionary of Psychology}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{fullhash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{bibnamehash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{authorbibnamehash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{authornamehash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{authorfullhash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://dictionary.apa.org/independence
+      \endverb
+      \verb{url}
+      \verb https://dictionary.apa.org/independence
+      \endverb
+    \endentry
+    \entry{doi:10.3109/17483107.2014.974221}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=278d11ecb417f2469e39d777c4d1a113}{%
+           family={Borg},
+           familyi={B\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5284a5d5aef97796da03c1a34f179ca}{%
+           family={Östergren},
+           familyi={Ö\bibinitperiod},
+           given={Per-Olof},
+           giveni={P\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{fullhash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{bibnamehash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{authorbibnamehash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{authornamehash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{authorfullhash}{7b6e5e9513c432c99a8381177af3ecec}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Disability and Rehabilitation: Assistive Technology}
+      \field{note}{PMID: 25347347}
+      \field{number}{4}
+      \field{title}{Users' perspectives on the provision of assistive technologies in Bangladesh: awareness, providers, costs and barriers}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{301\bibrangedash 308}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3109/17483107.2014.974221
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.3109/17483107.2014.974221
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3109/17483107.2014.974221
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3109/17483107.2014.974221
+      \endverb
+    \endentry
+    \entry{arts909874}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ec57d0a3995d810b959adffa951c272}{%
+           family={Basak},
+           familyi={B\bibinitperiod},
+           given={Rasim},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Mardin Artuklu Üniversitesi Güzel Sanatlar Fakültesi Artuklu/Mardin}%
+      }
+      \list{publisher}{1}{%
+        {Mardin Artuklu University}%
+      }
+      \strng{namehash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{fullhash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{bibnamehash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{authorbibnamehash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{authornamehash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{authorfullhash}{0ec57d0a3995d810b959adffa951c272}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ARTS: Artuklu Sanat ve Beşeri Bilimler Dergisi}
+      \field{number}{6}
+      \field{title}{Janteloven: Scandinavian Social Conformity, IKEA, Minimalism, and The Socialism of Design}
+      \field{year}{2021}
+      \field{pages}{159\bibrangedash 185}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.46372/arts.909874
+      \endverb
+    \endentry
+    \entry{doi:10.1080/10400435.2021.1994052}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8717b30f7c6af22cb5d3a136f843f1bb}{%
+           family={Cote},
+           familyi={C\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{fullhash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{bibnamehash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{authorbibnamehash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{authornamehash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{authorfullhash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Assistive Technology}
+      \field{note}{PMID: 34951824}
+      \field{number}{sup1}
+      \field{title}{Social protection and access to assistive technology in low- and middle-income countries}
+      \field{volume}{33}
+      \field{year}{2021}
+      \field{pages}{S102\bibrangedash S108}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1080/10400435.2021.1994052
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/10400435.2021.1994052
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/10400435.2021.1994052
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/10400435.2021.1994052
+      \endverb
+    \endentry
+    \entry{10.1007/978-3-319-08599-9_44}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=eaf5f683390dd95919ab258866d100b5}{%
+           family={Hamidi},
+           familyi={H\bibinitperiod},
+           given={Foad},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a8954132b3782efb0f6a6aef4bb72d4}{%
+           family={Baljko},
+           familyi={B\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87da78245bd89117017add3b0811817c}{%
+           family={Kunic},
+           familyi={K\bibinitperiod},
+           given={Toni},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b837820e691ba01dae3941caa6c80c61}{%
+           family={Feraday},
+           familyi={F\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=1826e3849b5433de19756f93f76b9d80}{%
+           family={Miesenberger},
+           familyi={M\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1990af664ef2737fa58aab5c6bee3f23}{%
+           family={Fels},
+           familyi={F\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod}}}%
+        {{hash=892fcc1caa4db2e8807781a8a9e3ccdd}{%
+           family={Archambault},
+           familyi={A\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3f5211ca92e08d62dcecfbd3c19f9211}{%
+           family={Peňáz},
+           familyi={P\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=294c87566138e2af5fa3b8b4685ab62f}{%
+           family={Zagler},
+           familyi={Z\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{d61ab44071369f99c0da1f76a4de5ee9}
+      \strng{fullhash}{5cfa2084d91c1ac00369d74c2668cab4}
+      \strng{bibnamehash}{5cfa2084d91c1ac00369d74c2668cab4}
+      \strng{authorbibnamehash}{5cfa2084d91c1ac00369d74c2668cab4}
+      \strng{authornamehash}{d61ab44071369f99c0da1f76a4de5ee9}
+      \strng{authorfullhash}{5cfa2084d91c1ac00369d74c2668cab4}
+      \strng{editorbibnamehash}{536f83277b1a701d82d5df974ac5d220}
+      \strng{editornamehash}{2d688aa7485a854115fb5151e08ad67f}
+      \strng{editorfullhash}{536f83277b1a701d82d5df974ac5d220}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Do-It-Yourself (DIY) and open design approaches allow for the development of customized, affordable assistive technologies. Freely shared designs and software components open doors for new ways to create and to share technology, representing an approach that has the potential to be more efficient, affordable, and effective than commercial approaches to Assistive Technology development and deployment. In this paper, we present a case study of how these methods have been used to develop a DIY, open-source Speech-Generating Device.}
+      \field{booktitle}{Computers Helping People with Special Needs}
+      \field{isbn}{978-3-319-08599-9}
+      \field{title}{Do-It-Yourself (DIY) Assistive Technology: A Communication Board Case Study}
+      \field{year}{2014}
+      \field{pages}{287\bibrangedash 294}
+      \range{pages}{8}
+    \endentry
+    \entry{doi:10.2753/RES1060-9393310957}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=33e309fafadcaed43c885e7a83430496}{%
+           family={Kon},
+           familyi={K\bibinitperiod},
+           given={I.\bibnamedelimi S.},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{33e309fafadcaed43c885e7a83430496}
+      \strng{fullhash}{33e309fafadcaed43c885e7a83430496}
+      \strng{bibnamehash}{33e309fafadcaed43c885e7a83430496}
+      \strng{authorbibnamehash}{33e309fafadcaed43c885e7a83430496}
+      \strng{authornamehash}{33e309fafadcaed43c885e7a83430496}
+      \strng{authorfullhash}{33e309fafadcaed43c885e7a83430496}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soviet Education}
+      \field{number}{9}
+      \field{title}{The Psychology of Independence}
+      \field{volume}{31}
+      \field{year}{1989}
+      \field{pages}{57\bibrangedash 64}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2753/RES1060-9393310957
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.2753/RES1060-9393310957
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2753/RES1060-9393310957
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2753/RES1060-9393310957
+      \endverb
+    \endentry
+    \entry{9768012}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ba9287c9ae275f681f872d1cdde73c69}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Y\bibnamedelima R\bibnamedelima Sanjay},
+           giveni={Y\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d704400532b809df6fa878b136dbc840}{%
+           family={Nivethetha},
+           familyi={N\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7b14e0c7b6c6b3daac4a613aaf245f1}{%
+           family={Priyadharshini},
+           familyi={P\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=250af00b173d1d89a50ec260c966d062}{%
+           family={Jayachandiran},
+           familyi={J\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd289d0bdd58782c5d1b6cbf6fda4be4}
+      \strng{fullhash}{d251d9b9f8cecebcaf5d34215f0b9b0e}
+      \strng{bibnamehash}{d251d9b9f8cecebcaf5d34215f0b9b0e}
+      \strng{authorbibnamehash}{d251d9b9f8cecebcaf5d34215f0b9b0e}
+      \strng{authornamehash}{cd289d0bdd58782c5d1b6cbf6fda4be4}
+      \strng{authorfullhash}{d251d9b9f8cecebcaf5d34215f0b9b0e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2022 International Conference on Communication, Computing and Internet of Things (IC3IoT)}
+      \field{title}{SMART GLASSES FOR VISUALLY IMPAIRED PEOPLE WITH FACIAL RECOGNITION}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/IC3IOT53935.2022.9768012
+      \endverb
+    \endentry
+    \entry{doi:10.1080/17483107.2021.1892839}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=de0683e4e1100d1e9a65001edd50a19d}{%
+           family={Shaikh-Mohammed},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Javeed},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ef6e4cd9222fd5ca5ced7ddc261b998}{%
+           family={Dash},
+           familyi={D\bibinitperiod},
+           given={Swostik\bibnamedelima Sourav},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52b61235a5475fc23c46eb5076b6578f}{%
+           family={Sarda},
+           familyi={S\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e22402c60a13ad65686f45e40a99428}{%
+           family={Sujatha},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{4935f3fea8bc7fdc94187e2d10c6f882}
+      \strng{fullhash}{9bf3de39b6c5304a07aa7a4fee94e484}
+      \strng{bibnamehash}{9bf3de39b6c5304a07aa7a4fee94e484}
+      \strng{authorbibnamehash}{9bf3de39b6c5304a07aa7a4fee94e484}
+      \strng{authornamehash}{4935f3fea8bc7fdc94187e2d10c6f882}
+      \strng{authorfullhash}{9bf3de39b6c5304a07aa7a4fee94e484}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Disability and Rehabilitation: Assistive Technology}
+      \field{note}{PMID: 33663308}
+      \field{number}{5}
+      \field{title}{Design journey of an affordable manual standing wheelchair}
+      \field{volume}{18}
+      \field{year}{2023}
+      \field{pages}{553\bibrangedash 563}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1080/17483107.2021.1892839
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/17483107.2021.1892839
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/17483107.2021.1892839
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/17483107.2021.1892839
+      \endverb
+    \endentry
+    \entry{10.1007/978-3-030-49282-3_36}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7e92a1836004c524de0ede287a915db6}{%
+           family={Varela-Aldás},
+           familyi={V\bibinithyphendelim A\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=787375eda02ae5fc837373ee1a43696f}{%
+           family={Guamán},
+           familyi={G\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36352ce4aea6650e5e63607472bfad4e}{%
+           family={Paredes},
+           familyi={P\bibinitperiod},
+           given={Belén},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=488c2ed898e095f0882cc8de3bd2a106}{%
+           family={Chicaiza},
+           familyi={C\bibinitperiod},
+           given={Fernando\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=628d99917b0ad4f6c1355294043dcffd}{%
+           family={Antona},
+           familyi={A\bibinitperiod},
+           given={Margherita},
+           giveni={M\bibinitperiod}}}%
+        {{hash=24eede26cf84a8d622e5673c93b91295}{%
+           family={Stephanidis},
+           familyi={S\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{244c13e775ce903a759aa08c0cb6a564}
+      \strng{fullhash}{96d508cecd9e9789d1578c07a86d15de}
+      \strng{bibnamehash}{96d508cecd9e9789d1578c07a86d15de}
+      \strng{authorbibnamehash}{96d508cecd9e9789d1578c07a86d15de}
+      \strng{authornamehash}{244c13e775ce903a759aa08c0cb6a564}
+      \strng{authorfullhash}{96d508cecd9e9789d1578c07a86d15de}
+      \strng{editorbibnamehash}{79f7c88543b8be38689cb509b1960e60}
+      \strng{editornamehash}{79f7c88543b8be38689cb509b1960e60}
+      \strng{editorfullhash}{79f7c88543b8be38689cb509b1960e60}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Currently, there is a growing public interest in improving the quality of life of people with disabilities, being the visual limitation one of them, where different research projects have been developed. Assistance robotics is a branch dedicated to the support in mobility and rehabilitation of people with visual disabilities and other limitations. This work describes the construction and use of a robotic cane to assist people with visual problems. The robot structure is generated by 3D printing, and the electronic system has been designed based on Arduino technology. The robot features include a sensor distance to detect possible collisions, a GPS to track its movements, and two DC motors in caterpillar-like configuration for cane mobility. In addition, the robot has connectivity with mobile devices through Bluetooth communication, where the mobile application coordinates the movements of the robot in two ways, manual and autonomous, allowing to reach the desired location and sending the user's location to the web. This proposal is tested in a structured environment so that patients cast their perspective through a usability test and their characteristics are examined through the analysis of an expert.}
+      \field{booktitle}{Universal Access in Human-Computer Interaction. Design Approaches and Supporting Technologies}
+      \field{isbn}{978-3-030-49282-3}
+      \field{title}{Robotic Cane for the Visually Impaired}
+      \field{year}{2020}
+      \field{pages}{506\bibrangedash 517}
+      \range{pages}{12}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{APA}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fd90f207222ea07e1d0453f5c6c02dc0}{%
+           family={{APA Dictionary of Psychology}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {American Psychological Association}%
+      }
+      \strng{namehash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{fullhash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{bibnamehash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{authorbibnamehash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{authornamehash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \strng{authorfullhash}{fd90f207222ea07e1d0453f5c6c02dc0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://dictionary.apa.org/independence
+      \endverb
+      \verb{url}
+      \verb https://dictionary.apa.org/independence
+      \endverb
+    \endentry
+    \entry{doi:10.3109/17483107.2014.974221}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=278d11ecb417f2469e39d777c4d1a113}{%
+           family={Borg},
+           familyi={B\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5284a5d5aef97796da03c1a34f179ca}{%
+           family={Östergren},
+           familyi={Ö\bibinitperiod},
+           given={Per-Olof},
+           giveni={P\bibinithyphendelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{fullhash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{bibnamehash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{authorbibnamehash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{authornamehash}{7b6e5e9513c432c99a8381177af3ecec}
+      \strng{authorfullhash}{7b6e5e9513c432c99a8381177af3ecec}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Disability and Rehabilitation: Assistive Technology}
+      \field{note}{PMID: 25347347}
+      \field{number}{4}
+      \field{title}{Users' perspectives on the provision of assistive technologies in Bangladesh: awareness, providers, costs and barriers}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{301\bibrangedash 308}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.3109/17483107.2014.974221
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.3109/17483107.2014.974221
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.3109/17483107.2014.974221
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.3109/17483107.2014.974221
+      \endverb
+    \endentry
+    \entry{arts909874}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ec57d0a3995d810b959adffa951c272}{%
+           family={Basak},
+           familyi={B\bibinitperiod},
+           given={Rasim},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Mardin Artuklu Üniversitesi Güzel Sanatlar Fakültesi Artuklu/Mardin}%
+      }
+      \list{publisher}{1}{%
+        {Mardin Artuklu University}%
+      }
+      \strng{namehash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{fullhash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{bibnamehash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{authorbibnamehash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{authornamehash}{0ec57d0a3995d810b959adffa951c272}
+      \strng{authorfullhash}{0ec57d0a3995d810b959adffa951c272}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ARTS: Artuklu Sanat ve Beşeri Bilimler Dergisi}
+      \field{number}{6}
+      \field{title}{Janteloven: Scandinavian Social Conformity, IKEA, Minimalism, and The Socialism of Design}
+      \field{year}{2021}
+      \field{pages}{159\bibrangedash 185}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.46372/arts.909874
+      \endverb
+    \endentry
+    \entry{doi:10.1080/10400435.2021.1994052}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8717b30f7c6af22cb5d3a136f843f1bb}{%
+           family={Cote},
+           familyi={C\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{fullhash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{bibnamehash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{authorbibnamehash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{authornamehash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \strng{authorfullhash}{8717b30f7c6af22cb5d3a136f843f1bb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Assistive Technology}
+      \field{note}{PMID: 34951824}
+      \field{number}{sup1}
+      \field{title}{Social protection and access to assistive technology in low- and middle-income countries}
+      \field{volume}{33}
+      \field{year}{2021}
+      \field{pages}{S102\bibrangedash S108}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1080/10400435.2021.1994052
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/10400435.2021.1994052
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/10400435.2021.1994052
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/10400435.2021.1994052
+      \endverb
+    \endentry
+    \entry{10.1007/978-3-319-08599-9_44}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=eaf5f683390dd95919ab258866d100b5}{%
+           family={Hamidi},
+           familyi={H\bibinitperiod},
+           given={Foad},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a8954132b3782efb0f6a6aef4bb72d4}{%
+           family={Baljko},
+           familyi={B\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87da78245bd89117017add3b0811817c}{%
+           family={Kunic},
+           familyi={K\bibinitperiod},
+           given={Toni},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b837820e691ba01dae3941caa6c80c61}{%
+           family={Feraday},
+           familyi={F\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=1826e3849b5433de19756f93f76b9d80}{%
+           family={Miesenberger},
+           familyi={M\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1990af664ef2737fa58aab5c6bee3f23}{%
+           family={Fels},
+           familyi={F\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod}}}%
+        {{hash=892fcc1caa4db2e8807781a8a9e3ccdd}{%
+           family={Archambault},
+           familyi={A\bibinitperiod},
+           given={Dominique},
+           giveni={D\bibinitperiod}}}%
+        {{hash=3f5211ca92e08d62dcecfbd3c19f9211}{%
+           family={Peňáz},
+           familyi={P\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+        {{hash=294c87566138e2af5fa3b8b4685ab62f}{%
+           family={Zagler},
+           familyi={Z\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{d61ab44071369f99c0da1f76a4de5ee9}
+      \strng{fullhash}{5cfa2084d91c1ac00369d74c2668cab4}
+      \strng{bibnamehash}{5cfa2084d91c1ac00369d74c2668cab4}
+      \strng{authorbibnamehash}{5cfa2084d91c1ac00369d74c2668cab4}
+      \strng{authornamehash}{d61ab44071369f99c0da1f76a4de5ee9}
+      \strng{authorfullhash}{5cfa2084d91c1ac00369d74c2668cab4}
+      \strng{editorbibnamehash}{536f83277b1a701d82d5df974ac5d220}
+      \strng{editornamehash}{2d688aa7485a854115fb5151e08ad67f}
+      \strng{editorfullhash}{536f83277b1a701d82d5df974ac5d220}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Do-It-Yourself (DIY) and open design approaches allow for the development of customized, affordable assistive technologies. Freely shared designs and software components open doors for new ways to create and to share technology, representing an approach that has the potential to be more efficient, affordable, and effective than commercial approaches to Assistive Technology development and deployment. In this paper, we present a case study of how these methods have been used to develop a DIY, open-source Speech-Generating Device.}
+      \field{booktitle}{Computers Helping People with Special Needs}
+      \field{isbn}{978-3-319-08599-9}
+      \field{title}{Do-It-Yourself (DIY) Assistive Technology: A Communication Board Case Study}
+      \field{year}{2014}
+      \field{pages}{287\bibrangedash 294}
+      \range{pages}{8}
+    \endentry
+    \entry{doi:10.2753/RES1060-9393310957}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=33e309fafadcaed43c885e7a83430496}{%
+           family={Kon},
+           familyi={K\bibinitperiod},
+           given={I.\bibnamedelimi S.},
+           giveni={I\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{33e309fafadcaed43c885e7a83430496}
+      \strng{fullhash}{33e309fafadcaed43c885e7a83430496}
+      \strng{bibnamehash}{33e309fafadcaed43c885e7a83430496}
+      \strng{authorbibnamehash}{33e309fafadcaed43c885e7a83430496}
+      \strng{authornamehash}{33e309fafadcaed43c885e7a83430496}
+      \strng{authorfullhash}{33e309fafadcaed43c885e7a83430496}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Soviet Education}
+      \field{number}{9}
+      \field{title}{The Psychology of Independence}
+      \field{volume}{31}
+      \field{year}{1989}
+      \field{pages}{57\bibrangedash 64}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.2753/RES1060-9393310957
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.2753/RES1060-9393310957
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2753/RES1060-9393310957
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2753/RES1060-9393310957
+      \endverb
+    \endentry
+    \entry{9768012}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ba9287c9ae275f681f872d1cdde73c69}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Y\bibnamedelima R\bibnamedelima Sanjay},
+           giveni={Y\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d704400532b809df6fa878b136dbc840}{%
+           family={Nivethetha},
+           familyi={N\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7b14e0c7b6c6b3daac4a613aaf245f1}{%
+           family={Priyadharshini},
+           familyi={P\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=250af00b173d1d89a50ec260c966d062}{%
+           family={Jayachandiran},
+           familyi={J\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cd289d0bdd58782c5d1b6cbf6fda4be4}
+      \strng{fullhash}{d251d9b9f8cecebcaf5d34215f0b9b0e}
+      \strng{bibnamehash}{d251d9b9f8cecebcaf5d34215f0b9b0e}
+      \strng{authorbibnamehash}{d251d9b9f8cecebcaf5d34215f0b9b0e}
+      \strng{authornamehash}{cd289d0bdd58782c5d1b6cbf6fda4be4}
+      \strng{authorfullhash}{d251d9b9f8cecebcaf5d34215f0b9b0e}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2022 International Conference on Communication, Computing and Internet of Things (IC3IoT)}
+      \field{title}{SMART GLASSES FOR VISUALLY IMPAIRED PEOPLE WITH FACIAL RECOGNITION}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/IC3IOT53935.2022.9768012
+      \endverb
+    \endentry
+    \entry{doi:10.1080/17483107.2021.1892839}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=de0683e4e1100d1e9a65001edd50a19d}{%
+           family={Shaikh-Mohammed},
+           familyi={S\bibinithyphendelim M\bibinitperiod},
+           given={Javeed},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ef6e4cd9222fd5ca5ced7ddc261b998}{%
+           family={Dash},
+           familyi={D\bibinitperiod},
+           given={Swostik\bibnamedelima Sourav},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52b61235a5475fc23c46eb5076b6578f}{%
+           family={Sarda},
+           familyi={S\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e22402c60a13ad65686f45e40a99428}{%
+           family={Sujatha},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{4935f3fea8bc7fdc94187e2d10c6f882}
+      \strng{fullhash}{9bf3de39b6c5304a07aa7a4fee94e484}
+      \strng{bibnamehash}{9bf3de39b6c5304a07aa7a4fee94e484}
+      \strng{authorbibnamehash}{9bf3de39b6c5304a07aa7a4fee94e484}
+      \strng{authornamehash}{4935f3fea8bc7fdc94187e2d10c6f882}
+      \strng{authorfullhash}{9bf3de39b6c5304a07aa7a4fee94e484}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Disability and Rehabilitation: Assistive Technology}
+      \field{note}{PMID: 33663308}
+      \field{number}{5}
+      \field{title}{Design journey of an affordable manual standing wheelchair}
+      \field{volume}{18}
+      \field{year}{2023}
+      \field{pages}{553\bibrangedash 563}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1080/17483107.2021.1892839
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1080/17483107.2021.1892839
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1080/17483107.2021.1892839
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1080/17483107.2021.1892839
+      \endverb
+    \endentry
+    \entry{10.1007/978-3-030-49282-3_36}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7e92a1836004c524de0ede287a915db6}{%
+           family={Varela-Aldás},
+           familyi={V\bibinithyphendelim A\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=787375eda02ae5fc837373ee1a43696f}{%
+           family={Guamán},
+           familyi={G\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36352ce4aea6650e5e63607472bfad4e}{%
+           family={Paredes},
+           familyi={P\bibinitperiod},
+           given={Belén},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=488c2ed898e095f0882cc8de3bd2a106}{%
+           family={Chicaiza},
+           familyi={C\bibinitperiod},
+           given={Fernando\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=628d99917b0ad4f6c1355294043dcffd}{%
+           family={Antona},
+           familyi={A\bibinitperiod},
+           given={Margherita},
+           giveni={M\bibinitperiod}}}%
+        {{hash=24eede26cf84a8d622e5673c93b91295}{%
+           family={Stephanidis},
+           familyi={S\bibinitperiod},
+           given={Constantine},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{244c13e775ce903a759aa08c0cb6a564}
+      \strng{fullhash}{96d508cecd9e9789d1578c07a86d15de}
+      \strng{bibnamehash}{96d508cecd9e9789d1578c07a86d15de}
+      \strng{authorbibnamehash}{96d508cecd9e9789d1578c07a86d15de}
+      \strng{authornamehash}{244c13e775ce903a759aa08c0cb6a564}
+      \strng{authorfullhash}{96d508cecd9e9789d1578c07a86d15de}
+      \strng{editorbibnamehash}{79f7c88543b8be38689cb509b1960e60}
+      \strng{editornamehash}{79f7c88543b8be38689cb509b1960e60}
+      \strng{editorfullhash}{79f7c88543b8be38689cb509b1960e60}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Currently, there is a growing public interest in improving the quality of life of people with disabilities, being the visual limitation one of them, where different research projects have been developed. Assistance robotics is a branch dedicated to the support in mobility and rehabilitation of people with visual disabilities and other limitations. This work describes the construction and use of a robotic cane to assist people with visual problems. The robot structure is generated by 3D printing, and the electronic system has been designed based on Arduino technology. The robot features include a sensor distance to detect possible collisions, a GPS to track its movements, and two DC motors in caterpillar-like configuration for cane mobility. In addition, the robot has connectivity with mobile devices through Bluetooth communication, where the mobile application coordinates the movements of the robot in two ways, manual and autonomous, allowing to reach the desired location and sending the user's location to the web. This proposal is tested in a structured environment so that patients cast their perspective through a usability test and their characteristics are examined through the analysis of an expert.}
+      \field{booktitle}{Universal Access in Human-Computer Interaction. Design Approaches and Supporting Technologies}
+      \field{isbn}{978-3-030-49282-3}
+      \field{title}{Robotic Cane for the Visually Impaired}
+      \field{year}{2020}
+      \field{pages}{506\bibrangedash 517}
+      \range{pages}{12}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
