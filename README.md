@@ -6,10 +6,10 @@ Greetings, my name is Bobby Stephens III. I am a senior in The STEM Institute at
 - [Critical Thinking](#critical-thinker)
 - [Employable](#employable)
 - [Empowered](#empowered)
-- [Future Thinker](#future-thinker)
+- [Future Thinker](/future-thinker)
 - [Knowledge Seeker](#knowledge-seeker)
 - [Resilient](#resilient)
-- [Resourceful](#resourceful)
+- [Resourceful](/resourceful)
 
 If any of the links are broken, it is highly likely that there is no content for that section yet. Please check back later for updates.
 
